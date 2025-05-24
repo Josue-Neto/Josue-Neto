@@ -39,7 +39,7 @@
 
 ---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/0GfKZKVNK7AAAAAC/sly-cooper-sly2.gif" alt="GIF do Sly Cooper" />
+<img align="right" height="220" src="https://media1.tenor.com/m/0GfKZKVNK7AAAAAC/sly-cooper-sly2.gif" alt="GIF do Sly Cooper" />
 
 ---
 
