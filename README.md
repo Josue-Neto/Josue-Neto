@@ -50,8 +50,3 @@ Se quiser trocar uma ideia ou ver mais do que eu faço:
 - 📧 **Email**: _adicione aqui se quiser_
 - 📸 **Instagram**: [@seuusuario](https://instagram.com/seuusuario)
 - 💼 **LinkedIn**: _adicione aqui se tiver_
-
----
-
-> “A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.”  
-> — Albert Einstein
