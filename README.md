@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem Vindo! 👋
 
 <!--
 **Ceroltxt/Ceroltxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left"> Você pode me chamar de Carol, sou uma estudante de TI da Etec!</h2>
+<h2 align="left"> Você pode me chamar de Josué, sou uma estudante de TI da Etec!</h2>
 
 ###
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZzbGZzN25jOXh2NjRmajZnb3poYjJlejVra2l0YXo2enZ2dWluZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ViGwJOV6EWAKs/giphy.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/0GfKZKVNK7AAAAAC/sly-cooper-sly2.gif"  />
 
 ###
 
