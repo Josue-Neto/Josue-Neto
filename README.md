@@ -1,44 +1,57 @@
-## Bem Vindo! 👋
+## 👋 Bem-vindo(a) ao meu perfil!
 
-<!--
-**Ceroltxt/Ceroltxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Você pode me chamar de Josué — sou estudante de Informática para Internet na Etec Antônio Furlan!</h2>
 
-Here are some ideas to get you started:
+<p align="left">
+💡 Apaixonado por tecnologia, programação e design.<br>
+📚 Atualmente estudando: HTML, CSS, JavaScript e Android Studio.<br>
+🎮 Fã de jogos, animes e cultura geek.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h2 align="left"> Você pode me chamar de Josué, sou uma estudante de TI da Etec!</h2>
+### 🛠️ Tecnologias que estou aprendendo
 
-###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+</div>
+
+---
+
+### 📊 Meus stats no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ceroltxt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceroltxt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ceroltxt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Gráfico de atividades" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceroltxt&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/0GfKZKVNK7AAAAAC/sly-cooper-sly2.gif"  />
+### 🎯 Sobre mim
 
-###
+- 🧠 Sempre buscando aprender mais!
+- 🤝 Aberto(a) a colaborações em projetos escolares ou pessoais.
+- 💬 Me pergunte sobre front-end, games ou cultura nerd!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+---
 
-###
+<img align="right" height="150" src="https://media1.tenor.com/m/0GfKZKVNK7AAAAAC/sly-cooper-sly2.gif" alt="GIF do Sly Cooper" />
 
-<div align="left">
-</div>
+---
+
+### 📫 Contato
+
+Se quiser trocar uma ideia ou ver mais do que eu faço:
+
+- 📧 **Email**: _adicione aqui se quiser_
+- 📸 **Instagram**: [@seuusuario](https://instagram.com/seuusuario)
+- 💼 **LinkedIn**: _adicione aqui se tiver_
+
+---
+
+> “A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.”  
+> — Albert Einstein
