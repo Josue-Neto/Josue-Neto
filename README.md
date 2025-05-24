@@ -5,7 +5,7 @@
 <p align="left">
 💡 Apaixonado por tecnologia, programação e design.<br>
 📚 Atualmente estudando: HTML, CSS, JavaScript e Android Studio.<br>
-🎮 Fã de jogos, animes e cultura geek.
+🎮 Fã de jogos, filmes e cultura geek.
 </p>
 
 ---
@@ -40,8 +40,6 @@
 ---
 
 <img align="right" height="218" src="https://media1.tenor.com/m/0GfKZKVNK7AAAAAC/sly-cooper-sly2.gif" alt="GIF do Sly Cooper" />
-
----
 
 ### 📫 Contato
 
