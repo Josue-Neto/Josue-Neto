@@ -25,8 +25,8 @@
 ### 📊 Meus stats no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josue-Netotxt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Gráfico de atividades" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josue-Netotxt&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josue-Neto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Gráfico de atividades" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josue-Neto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
 </div>
 
 ---
@@ -39,7 +39,7 @@
 
 ---
 
-<img align="right" height="220" src="https://media1.tenor.com/m/0GfKZKVNK7AAAAAC/sly-cooper-sly2.gif" alt="GIF do Sly Cooper" />
+<img align="right" height="218" src="https://media1.tenor.com/m/0GfKZKVNK7AAAAAC/sly-cooper-sly2.gif" alt="GIF do Sly Cooper" />
 
 ---
 
