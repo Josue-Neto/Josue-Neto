@@ -45,6 +45,4 @@
 
 Se quiser trocar uma ideia ou ver mais do que eu faço:
 
-- 📧 **Email**: _adicione aqui se quiser_
-- 📸 **Instagram**: [@seuusuario](https://instagram.com/seuusuario)
-- 💼 **LinkedIn**: _adicione aqui se tiver_
+- 📧 **Email**: josuemartinscardoso431@gmail.com 
